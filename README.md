@@ -21,7 +21,7 @@ Hello! I am **Nur Fatin Nabila**, a Computer Science student with a strong inter
 University Technology Malaysia (UTM) 
 - Bachelor of Computer Science (Bioinformatics)  
 
-Melaka Matricullation College  
+Melaka Matriculation College  
 - Physical Science  
 
 SMK (P) Sultan Ibrahim
